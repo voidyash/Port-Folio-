@@ -1,1 +1,1 @@
-This is my personal portfolio Website made by me and AI.
+This is my personal portfolio Website made by me.
